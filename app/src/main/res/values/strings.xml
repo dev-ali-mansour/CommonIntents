@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CommonIntents</string>
+    <string name="dial">Dial</string>
+    <string name="call">Call</string>
+    <string name="compose_email_message">Compose Email message</string>
+    <string name="pick_contact">Pick a contact</string>
+    <string name="capture_photo">Capture photo</string>
+    <string name="call_phone_permission">Call phone permission is required</string>
+    <string name="read_contacts_permission">Read Contacts permission is required!</string>
+</resources>

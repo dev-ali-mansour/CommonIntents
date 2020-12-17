@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أحداث شائعة</string>
+    <string name="dial">اتصال</string>
+    <string name="call">اتصال مباشر</string>
+    <string name="compose_email_message">إرسال بريد إلكتروني</string>
+    <string name="pick_contact">اختر جهة اتصال</string>
+    <string name="capture_photo">التقط صورة</string>
+    <string name="call_phone_permission">إذن الاتصال بالهاتف ضروري لعمل التطبيق!</string>
+    <string name="read_contacts_permission">إذن قراءة جهات الاتصال ضروري لعمل التطبيق!</string>
+</resources>
